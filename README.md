@@ -12,8 +12,10 @@ This is a basic Python project scaffolded for AI System development.
 4. Start developing your AI System!
 
 ## Project Structure
+
 - `.venv/` - Python virtual environment
 - `.github/copilot-instructions.md` - Copilot custom instructions
 
 ## Notes
+
 - Update this README as your project evolves.
